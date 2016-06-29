@@ -1,0 +1,16 @@
+#canvas {
+     border: 1px solid black;
+     margin-top: 2%;
+}
+
+#color   {
+     display: inline-block;
+}
+#width{
+     left: 20%;
+     display: inline-block;
+}
+/*.draw{
+     display: inline-block;
+     position: absolute;
+}*/
